@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage</title>
+    <style>
+        body {
+            padding: 30px;
+            background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+        }
+        h1 {
+            text-align: center;
+        }
+        button {
+            color: blueviolet;
+            background-color: #c9d6ff;
+            padding: 5px;
+            border-radius: 5px;
+            font-size: 1rem;
+            font-weight: bold;
+            border: none;
+        }
+        button:hover {
+            text-decoration: underline;
+            color: blue;
+        }
+        .container {
+            margin-left: 15%;
+            font-size: 20px;
+            padding: 10px;
+        }
+        .container div {
+            font-weight: 400;
+            color: rgb(12, 11, 11);
+        }
+        span {
+            font-weight: 600;
+            font-size: 22px;
+            color: black;
+        }
+        .nav {
+            width: 200px;
+            position: fixed;
+            height: 100%;
+            top: 0;
+            left: 0;
+            background: #c9d6ff;
+            padding: 20px;
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);
+        }
+        .nav a {
+            display: block;
+            padding: 10px;
+            margin: 10px 0;
+            color: black;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        .nav a:hover {
+            background: blueviolet;
+            color: white;
+        }
+        #profileSection, #qrCodeSection {
+            margin-left: 15%;
+            margin-top: 20px;
+            padding: 10px;
+            background: white;
+            border: 1px solid #ccc;
+            width: fit-content;
+        }
+        #profileSection {
+            margin-top: 100px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to the Homepage</h1>
+    <div id="profileSection" class="container">
+        <div>First Name: <span id="loggedUserFName"></span></div>
+        <div>Last Name: <span id="loggedUserLName"></span></div>
+        <div>Email: <span id="loggedUserEmail"></span></div>
+        <div>Credit: <span id="loggedUserCredit"></span></div>
+        <div><button id="logout">Logout</button></div>
+    </div>
+    <div id="qrCodeSection">
+        <canvas id="qrCodeContainer"></canvas>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/qrcode/build/qrcode.min.js"></script>
+    <script type="module" src="./homepage.js"></script>
+</body>
+</html>
