@@ -1,15 +1,15 @@
-**Project Title: Incentivized Clean Waste Management Initiative (ICWIM)**  
+**Project Title: AVARTANAM – Initiative to Convert Waste into Money (ICWIM)**  
 
 ### **Introduction**  
 Despite the Indian government’s initiatives to improve waste management, the 2024 Environmental Performance Index (EPI) ranked India 176th out of 180 countries with a low score of 27.6. In contrast, Estonia ranked at the top with a score of 75.7. This stark difference highlights the need for a collaborative approach, where government policies are supported by public participation. However, public involvement remains limited due to a lack of perceived value in waste management.  
 
-Our project, **ICWIM**, aims to bridge this gap by introducing a financial incentive model that encourages active public participation. By making waste management financially rewarding, ICWIM aligns with the **Clean and Green India Movement**, promoting cleanliness, hygiene, and sustainable practices while providing tangible benefits to users.  
+Our project, **AVARTANAM**, is an **Initiative to Convert Waste into Money (ICWIM)** that bridges this gap by introducing a financial incentive model encouraging active public participation. By making waste management financially rewarding, **AVARTANAM** aligns with the **Clean and Green India Movement**, promoting cleanliness, hygiene, and sustainable practices while providing tangible benefits to users.  
 
 ### **Problem Statement**  
 Many individuals fail to engage in proper waste management due to its perceived lack of importance or immediate value. Existing waste management systems lack adequate incentives to motivate responsible waste segregation and disposal. Additionally, government efforts alone are insufficient to tackle this issue comprehensively.  
 
 ### **Proposed Solution: ICWIM**  
-ICWIM introduces an innovative waste management policy that combines financial incentives with advanced technology to promote active user involvement in waste segregation and disposal.  
+**ICWIM**, under the AVARTANAM initiative, introduces an innovative waste management policy that combines financial incentives with advanced technology to promote active user involvement in waste segregation and disposal.  
 
 ### **Key Features and Process**  
 
@@ -34,7 +34,7 @@ ICWIM introduces an innovative waste management policy that combines financial i
 7. **Annual Benefit**  
    At the end of the year, users can redeem their points as a monetary deduction from their annual house tax, offering a tangible incentive for sustainable waste management.  
 
-### **Benefits of ICWIM**  
+### **Benefits of AVARTANAM - ICWIM**  
 - **Increased Employment Opportunities**  
   The initiative creates jobs in waste management, recycling, and technology sectors.  
 - **Reduced Overhead Costs**  
@@ -51,6 +51,6 @@ ICWIM introduces an innovative waste management policy that combines financial i
 The ICWIM mobile app is designed for ease of use, featuring an intuitive GUI. Users can perform tasks in just 2-3 clicks, including scanning QR codes, tracking points, and redeeming benefits. The app ensures convenience for both users and the operating authority.  
 
 ### **Long-Term Impact**  
-ICWIM creates a win-win scenario for the government, society, and the environment. By emphasizing the value of waste management, the initiative fosters a culture of sustainability while addressing India's waste management challenges. It promotes cleanliness, generates revenue, and ensures tangible benefits for users, ultimately contributing to a cleaner, greener, and healthier nation.  
+AVARTANAM creates a win-win scenario for the government, society, and the environment. By emphasizing the value of waste management, the initiative fosters a culture of sustainability while addressing India's waste management challenges. It promotes cleanliness, generates revenue, and ensures tangible benefits for users, ultimately contributing to a cleaner, greener, and healthier nation.  
 
-Through ICWIM, waste management is no longer a responsibility—it becomes an opportunity for societal and environmental growth.  
+Through AVARTANAM, waste management is no longer a responsibility—it becomes an opportunity for societal and environmental growth.
