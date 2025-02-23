@@ -2,7 +2,7 @@
 
 ### **Team Members**  
 - **Manvani Harsh**(EC) : [GitHub Profile](https://github.com/Harshmanvani25)  
-- **Darji Ved**(IT) : [GitHub Profile](https://github.com/Harshmanvani25)
+- **Darji Ved**(IT) : [GitHub Profile](https://github.com/veddarji)
 
 ---
 
