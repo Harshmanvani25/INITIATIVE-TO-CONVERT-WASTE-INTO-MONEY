@@ -90,8 +90,8 @@ The project offers a platform that combines a **mobile application**, advanced w
 
 ## **Video Demonstration and Resources**  
 
-- **YouTube Video**: _[Link]_  
-- **Google Drive**: _[Link]_  
+- **YouTube Video**: https://youtu.be/mbfiWCLgPOg?si=cXhvOjYDtlvUaeDu
+- **Google Drive**: https://drive.google.com/drive/folders/14fe0TwswAP5lnPK6Cub6c4g4F-kh3LRa 
 
 ---
 
