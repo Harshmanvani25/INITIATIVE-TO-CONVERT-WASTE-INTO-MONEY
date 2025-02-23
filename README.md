@@ -1,8 +1,8 @@
 # AVARTANAM: Initiative to Convert Waste into Money (ICWIM)
 
 ### **Team Members**  
-- **Manvani Harsh**: [GitHub Profile](https://github.com/Harshmanvani25)  
-- **Darji Ved** : [GitHub Profile](https://github.com/Harshmanvani25)
+- **Manvani Harsh**(EC) : [GitHub Profile](https://github.com/Harshmanvani25)  
+- **Darji Ved**(IT) : [GitHub Profile](https://github.com/Harshmanvani25)
 
 ---
 
